@@ -1,21 +1,97 @@
-# 💫 About Me:
-I'm Srivalli from Raghu Engineering College<br>I'm currently learning Data science
+# 👋 Hi, I'm Srivalli
 
+### Software Engineer | AI & Backend Engineering | Agentic AI
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivalli-sai-lakshmi-potta/) 
+Software Engineer with **2 years of professional experience at Infosys**, building backend services, AI-powered workflows, APIs, and cloud-based applications.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SrivalliPotta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SrivalliPotta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrivalliPotta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My current interests are at the intersection of **AI engineering, agentic systems, backend development, and cloud infrastructure**.
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## 💼 Professional Experience
+
+**Software Engineer — Infosys**
+
+Worked on enterprise AI and backend engineering initiatives involving:
+
+* AI/LLM-powered agent workflows
+* Model Context Protocol (MCP) integrations
+* Microservices and REST APIs
+* Real-time communication using SSE/WebSockets
+* Java & Spring Boot backend services
+* Python-based AI services
+* Redis and database-backed applications
+* AWS & Azure cloud deployments
+
+> Proprietary production code and internal systems are not published here due to confidentiality.
+
+## 🧠 AI & Agentic Engineering
+
+* Python
+* LLM Applications
+* LangChain
+* LangGraph
+* Model Context Protocol (MCP)
+* Multi-Agent Systems
+* NLP
+* Machine Learning
+* Deep Learning
+
+## ⚙️ Backend & Distributed Systems
+
+* Java
+* Spring Boot
+* FastAPI
+* REST APIs
+* Microservices
+* WebSockets
+* Server-Sent Events (SSE)
+* Redis
+* Kafka
+
+## ☁️ Cloud & Infrastructure
+
+* AWS
+* Azure
+* Docker
+* Kubernetes
+* GitHub Actions
+* PostgreSQL
+* MySQL
+
+## 🚀 Featured Projects
+
+### 🤖 AI E-Triage
+
+AI-assisted triage application demonstrating AI workflows, backend APIs, real-time communication, Redis, PostgreSQL, and a React frontend.
+
+**Focus:** AI Engineering · Backend · Real-Time Systems
+
+### 📊 Customer Churn Prediction
+
+Machine learning project for predicting customer churn using data preprocessing, exploratory analysis, feature engineering, and supervised learning.
+
+**Focus:** Machine Learning · Python · Scikit-learn · Data Analysis
+
+## 📜 Certification
+
+**AWS Certified Data Engineer – Associate**
+
+## 🎯 Currently Interested In
+
+* AI Engineer
+* Applied AI Engineer
+* Machine Learning Engineer
+* Backend Engineer
+* AI Platform / Data Platform Engineering
+* Agentic AI & LLM Systems
+
+## 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/SrivalliPotta)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SrivalliPotta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=SrivalliPotta\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=SrivalliPotta\&theme=dark\&hide_border=false)
