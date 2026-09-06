@@ -2,13 +2,14 @@
 
 ### Software Engineer | AI & Backend Engineering | Agentic AI
 
-Software Engineer with **2 years of professional experience at Infosys**, building backend services, AI-powered workflows, APIs, and cloud-based applications.
+Software Engineer with **2 years of professional experience, most recently at Infosys**, building backend services, AI-powered workflows, APIs, and cloud-based applications.
 
-My current interests are at the intersection of **AI engineering, agentic systems, backend development, and cloud infrastructure**.
+My interests are at the intersection of **AI engineering, agentic systems, backend development, and cloud infrastructure**.
 
 ## 💼 Professional Experience
 
 **Software Engineer — Infosys**
+*September 2024 – June 2026*
 
 Worked on enterprise AI and backend engineering initiatives involving:
 
@@ -87,11 +88,3 @@ Machine learning project for predicting customer churn using data preprocessing,
 ## 📫 Connect With Me
 
 [LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/SrivalliPotta)
-
----
-
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=SrivalliPotta\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=SrivalliPotta\&theme=dark\&hide_border=false)
